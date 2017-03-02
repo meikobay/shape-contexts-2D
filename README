@@ -1,7 +1,7 @@
-To see some working result run:
+#To see some working result run:
 
-python test_single.py
+>python test_single.py
 
-or
+#or
 
-python test_captcha.py
+>python test_captcha.py
