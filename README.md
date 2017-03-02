@@ -1,2 +1,2 @@
 # shape-contexts-2D
-shape contexts is efficient and effective matching algorithm.
+shape contexts is an efficient and effective matching algorithm.
