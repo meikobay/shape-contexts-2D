@@ -1,4 +1,12 @@
 # shape-contexts-2D
-shape contexts is an efficient and effective matching algorithm.
 
-##Nothing ...
+To see some working result run:
+'''
+python test_single.py
+'''
+
+or
+
+'''
+python test_captcha.py
+'''
